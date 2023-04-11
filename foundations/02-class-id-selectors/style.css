@@ -1,0 +1,16 @@
+.para{
+    background-color: lightpink;
+    font-family: "Verdana" , "DejaVu Sans", "sans-serif";
+}
+#second_element{
+    color: blue;
+    font-size: 36px;
+}
+.unique{
+    font-size: 24px;
+}
+#fourth_element{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
